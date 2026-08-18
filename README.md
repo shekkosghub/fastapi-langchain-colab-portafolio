@@ -3,7 +3,7 @@
 
 Crea cinco proyectos prácticos de inteligencia artificial con FastAPI, LangChain, OpenRouter y Google Colab, sin instalar Python en tu computadora.
 
-[Comprar](https://www.amazon.com.mx/dp/B0H1PC994S)
+[Comprar](https://payhip.com/b/mgXzl)
 
 [Muestra gratis](https://elblogdeia.blog/)
 
